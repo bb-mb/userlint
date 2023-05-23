@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
-  "bin": "./bin.js"
+  "bin": "./bin.js",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
 }
