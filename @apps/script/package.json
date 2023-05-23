@@ -1,5 +1,5 @@
 {
-  "name": "@soso01/userlint",
+  "name": "userlint",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",

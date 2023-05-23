@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
 const yargs = require('yargs')
-console.log(yargs.argv)
+console.log('hello~', yargs.argv) 
