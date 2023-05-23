@@ -1,0 +1,7 @@
+{
+  "name": "@soso01/userlint",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "./bin.js"
+}
